@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.GoldProject" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:windowFullscreen">true</item>
+        <item name="fontFamily">@font/sans_fa_name_regular</item>
+    </style>
+
+    <style name="Theme.GoldProject" parent="Base.Theme.GoldProject" />
+
+</resources>
